@@ -1,0 +1,17 @@
+{
+  "appId": "com.hadibakam59430.app",
+  "appName": "hadi bakam",
+  "webDir": "dist",
+  "server": {
+    "url": "https://google.com",
+    "cleartext": true
+  },
+  "android": {
+    "buildOptions": {
+      "keystorePath": "release.keystore",
+      "keystorePassword": "android",
+      "keystoreAlias": "release",
+      "keystoreAliasPassword": "android"
+    }
+  }
+}
